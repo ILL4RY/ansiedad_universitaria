@@ -1,4 +1,4 @@
-# Adopción de arquitectura basada en microservicios
+# Base de datos relacional centralizada con Amazon RDS PostgreSQL 
 
 - Status: proposed
 - Deciders: [list everyone involved in the decision] <!-- optional -->
