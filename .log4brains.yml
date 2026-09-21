@@ -1,0 +1,5 @@
+project:
+  name: ansiedad_uni
+  tz: America/Lima
+  adrFolder: ./docs/adr
+  packages: []
